@@ -18,6 +18,7 @@ namespace PowerControl.Options
                 {
                     (refreshRate / 4).ToString(),
                     (refreshRate / 2).ToString(),
+                    (refreshRate / 3 * 2).ToString(),
                     refreshRate.ToString(),
                     "Off"
                 };
